@@ -1,0 +1,15 @@
+# Python environment folders
+.venv
+
+# Python cache folders
+__pycache__/
+
+# Python binary files
+*.pyc
+*.whl
+
+# Main environment files
+*.env
+
+# Logging files
+*.log

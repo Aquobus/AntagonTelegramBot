@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "antagontelegrambot"
+version = "1.0"
+description = "Telegram bot for Antagon"
+authors = ["Aquobus <altaire8000@gmail.com>"]
+license = "GNU GPL"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+aiogram = "^3.13.1"
+asyncio = "^3.4.3"
+loguru = "^0.7.2"
+pyyaml = "^6.0.2"
+psycopg2 = "^2.9.9"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
