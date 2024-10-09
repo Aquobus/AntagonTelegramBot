@@ -8,4 +8,4 @@ The bot performs the following functions:
 2. Linking the project’s discord server chat
 3. Basic functionality for sending messages and collecting statistics
 
-The project is distributed under the GNU GPL v3 license
+The project is distributed under the GNU GPL-3.0 license
