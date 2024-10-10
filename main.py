@@ -10,8 +10,10 @@
 1. Реализация API (для чего? а хуй знает, звучит по-умному, значит пишем :roflanEbalo:)
 """
 
+from bot.bot import AntagonBot
+
 import yaml
 
 async def run() -> None:
     # Запуск всех систем и модулей
-    ...
+    bot = AntagonBot()

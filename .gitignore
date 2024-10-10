@@ -13,3 +13,6 @@ __pycache__/
 
 # Logging files
 *.log
+
+# Executable scripts
+*.bat
